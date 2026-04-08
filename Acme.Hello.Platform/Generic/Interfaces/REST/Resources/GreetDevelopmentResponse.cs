@@ -1,4 +1,4 @@
-namespace DefaultNamespace;
+namespace Acme.Hello.Platform.Generic.Interfaces.REST.Resources;
 
 /// <summary>
 /// A record representing the response for a greeting request.
