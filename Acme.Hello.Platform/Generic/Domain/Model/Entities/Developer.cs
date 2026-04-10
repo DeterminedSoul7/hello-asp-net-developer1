@@ -21,7 +21,7 @@ public class Developer
     /// Checks if the first or last name is empty after trimming
     /// </summary>
 
-    public string GetFullName() => "${FirstName} {LastName}";
+    public string GetFullName() => $"{FirstName} {LastName}";
 
     public bool IsAnyNameEmpty() => string.IsNullOrEmpty(FirstName) || string.IsNullOrEmpty(LastName);
 
