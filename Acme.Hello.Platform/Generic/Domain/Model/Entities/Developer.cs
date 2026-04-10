@@ -7,7 +7,7 @@ namespace Acme.Hello.Platform.Generic.Domain.Model.Entities;
 public class Developer
 {
     /// <summary>
-    /// Initializes a new instance of the Developer entity with trimed names.
+    /// Initializes a new instance of the Developer entity with trimmed names.
     /// </summary>
     /// <param name="firstName"></param>
     /// <param name="lastName"></param>
